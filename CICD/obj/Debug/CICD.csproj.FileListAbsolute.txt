@@ -1,0 +1,6 @@
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\bin\Debug\CICD.dll
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\bin\Debug\CICD.pdb
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\obj\Debug\CICD.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\obj\Debug\CICD.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\obj\Debug\CICD.dll
+C:\Users\nikit\Desktop\Губернский колледж дз\Инструментальные срдства\CICD\CICD\obj\Debug\CICD.pdb
